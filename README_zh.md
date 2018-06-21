@@ -60,7 +60,7 @@ require('auto-compute-first-screen-time')({
 
 ## 原理是什么
 
-详细介绍：https://github.com/liu0418sky/blog/issues/102
+详细介绍：https://github.com/liu0418sky/blog/issues/2
 
 ## LICENSE
 
